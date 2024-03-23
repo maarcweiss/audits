@@ -15,6 +15,6 @@ This repo is made to showcase some of the security reviews that I have participa
 | [Ceden Network](https://ceden.network/) | Nodes + NFTs | 
 
 
-### Contract
+### Contact
 
 If you want to talk security I can be reached at [@0xWeisss](http://twitter.com/0xWeisss).
