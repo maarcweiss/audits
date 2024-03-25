@@ -30,7 +30,7 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 # 0xWeiss Paladin security reviews
 
-### Paladin Security Reviews
+### Paladin Blockchain Security Reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
