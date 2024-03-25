@@ -1,6 +1,15 @@
-# 0xWeiss's security reviews
+# About 0xWeiss
 
-This repo is made to showcase some of the security reviews that I have participated in.
+0xWeiss is an independent security researcher who manages smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
+
+He is also part of Spearbit (The best audit firm in the world) and Paladin Blockchain Security (Top tier firm).
+
+He has done tons of reviews (over 50) ranging from public, to firm and private. He has audited all kinds of DeFi protocols, omnichain, perps, options, lending, liquid staking... 
+
+
+
+# 0xWeiss's private security reviews
+
 
 ### Private Security Reviews
 
