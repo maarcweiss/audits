@@ -1,10 +1,10 @@
 # About 0xWeiss
 
-0xWeiss is an independent security researcher who manages smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
+I am an independent security researcher who manages smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
 
-He is also part of Spearbit (The best audit firm in the world) and Paladin Blockchain Security (Top tier firm).
+I am also part of Spearbit and Paladin Blockchain Security.
 
-He has done tons of reviews (over 50) ranging from public, to firm and private. He has audited all kinds of DeFi protocols, omnichain, perps, options, lending, liquid staking... 
+I have done tons of reviews (over 50) ranging from public, to firm and private. I have audited all kinds of DeFi protocols, omnichain, perps, options, lending, liquid staking... 
 
 
 
@@ -55,9 +55,9 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 
 
-# Bug Bounty Disclosures
+# 0xWeiss Bug Bounty Disclosures
 
-### Bug Bounty Disclosures 0xWeiss
+### 0xWeiss Bug Bounty Disclosures 
 
 | Protocol | Protocol Type | Link |
 | ---- |  ---------| ---------| 
@@ -67,6 +67,11 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [GNS](https://gains.trade/) | Trading | [Link](https://medium.com/@mweiss.eth/9d1bc80cc608)
 | [HOPR](https://hoprnet.org/) | Data Privacy | [Link](https://twitter.com/0xWeisss/status/1713640176700862703)
 | [Yield Yak](https://yieldyak.com/) | Vaults | Coming soon
+| [Pika Finance I](https://www.pikaprotocol.com/) | Perpetuals | Coming soon
+| [Pika Finance II](https://www.pikaprotocol.com/) | Perpetuals | Coming soon
+| [GLIF](https://www.glif.io/en) | Liquid Staking | Coming soon
+| [Union Finance I](https://twitter.com/UNNFinance) | Strats | Coming soon
+| [Union Finance II](https://twitter.com/UNNFinance) | Strats | Coming soon
 
 
 
@@ -75,8 +80,12 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 ### Recap of talk in conferences and auditing videos
 
+#### Opensense
+
 [One of the most watched auditing videos in the whole space. 1h 15min explaining my auditing process with over 300 attendees and 7900 views](https://www.youtube.com/watch?v=ZAiSou0CJmE&t=3784s&ab_channel=OpenSense-Research%2CTogether)
 
+#### DSS 2023
+ 
 [Defi Security Summit 2023 security talk](https://www.youtube.com/watch?v=xkeECuxMmcY&t=46s&ab_channel=DeFiSecuritySummit)
 
 
