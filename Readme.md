@@ -23,9 +23,9 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Shezmu](https://www.shezmu.io/) | CDP | 6 | 5 | 3000 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Shezmu_Security_Review.pdf)
 | [Fija Finance](https://www.fija.finance/product) | Vault Strategies | 1 | 5 | 1500 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Fija_Finance_Security_Review.pdf)
 | [Sybil Samurai](https://sybilsamurai.com/) | NFT | 1 | 0 | 100 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Sybil_Samurai_Security_Review_Final_Report.pdf)
-| [Ceden Network](https://ceden.network/) | Nodes + NFTs | Coming soon 
-| [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | Coming soon
-| [Edgeless Network]() | Lido Strats | Coming soon
+| [Ceden Network](https://ceden.network/) | Nodes + NFTs | 3 | 5 | 800 | Coming soon 
+| [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | - | - | - | Coming soon
+| [Edgeless Network]() | Lido Strats | 2 | 2 | 400 | Coming soon 
 
 
 # 0xWeiss Paladin security reviews
@@ -40,6 +40,22 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Davos Protocol I]() | VE/Governance | 2 | 1 | 1300 | [Report](https://drive.google.com/file/d/1vbnhNQjsHTjj1t_QVHlvrr55ETPeEIuP/view?usp=sharing)
 | [Davos Protocol II]() | Bribes/Gauges | 5 | 12 | 1300 | [Report](https://drive.google.com/file/d/143oWg-yltoc0P6ehjYYU2Bd69PGnJJtZ/view?usp=sharing)
 | [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Coming soon
+
+# Bug Bounty Disclosures
+
+### Bug Bounty Disclosures 0xWeiss
+
+| Protocol | Protocol Type | Link |
+| ---- |  ---------| ---------| 
+| [GMX V1 I](https://gmx.io/) | Perpetuals | [Link](https://medium.com/@mweiss.eth/the-lexer-markets-security-review-story-a812539d62db)
+| [GMX V1 II](https://gmx.io/) | Perpetuals | [Link](https://medium.com/@mweiss.eth/the-lexer-markets-security-review-story-a812539d62db)
+| [GMX V1 III](https://gmx.io/) | Perpetuals | [Link](https://medium.com/@mweiss.eth/the-lexer-markets-security-review-story-a812539d62db)
+| [GNS](https://gains.trade/) | Trading | [Link](https://medium.com/@mweiss.eth/9d1bc80cc608)
+| [HOPR](https://hoprnet.org/) | Data Privacy | [Link](https://twitter.com/0xWeisss/status/1713640176700862703)
+| [Yield Yak](https://yieldyak.com/) | Vaults | Coming soon
+
+
+
 
 # 0xWeiss public appearances 
 
