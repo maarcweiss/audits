@@ -13,9 +13,9 @@ This repo is made to showcase some of the security reviews that I have participa
 | [Shezmu](https://www.shezmu.io/) | CDP | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Shezmu_Security_Review.pdf)
 | [Fija Finance](https://www.fija.finance/product) | Vault Strategies | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Fija_Finance_Security_Review.pdf)
 | [Sybil Samurai](https://sybilsamurai.com/) | NFT | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Sybil_Samurai_Security_Review_Final_Report.pdf)
-| [Ceden Network](https://ceden.network/) | Nodes + NFTs | 
-| [Arrow Markets Token]([https://ceden.network/](https://www.arrow.markets/)) | OFT Token | 
-| [Edgeless Network]() | Lido Strats | 
+| [Ceden Network](https://ceden.network/) | Nodes + NFTs | Coming soon
+| [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | Coming soon
+| [Edgeless Network]() | Lido Strats | Coming soon
 
 
 ### Contact
