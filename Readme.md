@@ -11,7 +11,6 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 # 0xWeiss private security reviews
 
-
 ### Private Security Reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
@@ -42,6 +41,20 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Portal Fantasy]() | NFT marketplace | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1Ce5a6H_kdN_3z-APtvZGwo79kYMhI03w/view?usp=sharing)
 | [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Coming soon
 
+
+
+# 0xWeiss Cantina security reviews
+
+### Paladin Blockchain Security Reviews
+
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Y2K](https://www.y2k.finance/) | Migration | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1xeJhjk6yYAIGfBP5Ze2eZJ1ZhHUZyVwV/view?usp=sharing)
+
+
+
+
+
 # Bug Bounty Disclosures
 
 ### Bug Bounty Disclosures 0xWeiss
@@ -59,6 +72,8 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 
 # 0xWeiss public appearances 
+
+### Recap of talk in conferences and auditing videos
 
 [One of the most watched auditing videos in the whole space. 1h 15min explaining my auditing process with over 300 attendees and 7900 views](https://www.youtube.com/watch?v=ZAiSou0CJmE&t=3784s&ab_channel=OpenSense-Research%2CTogether)
 
