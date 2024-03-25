@@ -39,6 +39,7 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Wallchain](https://www.wallchain.xyz/) | MEV Protection | 1 | 2 | 500 | [Report](https://drive.google.com/file/d/1I7Ubs_RvjPvdkEborvIpEfiwbfruSLwg/view?usp=sharing)
 | [Davos Protocol I]() | VE/Governance | 2 | 1 | 1300 | [Report](https://drive.google.com/file/d/1vbnhNQjsHTjj1t_QVHlvrr55ETPeEIuP/view?usp=sharing)
 | [Davos Protocol II]() | Bribes/Gauges | 5 | 12 | 1300 | [Report](https://drive.google.com/file/d/143oWg-yltoc0P6ehjYYU2Bd69PGnJJtZ/view?usp=sharing)
+| [Portal Fantasy]() | NFT marketplace | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1Ce5a6H_kdN_3z-APtvZGwo79kYMhI03w/view?usp=sharing)
 | [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Coming soon
 
 # Bug Bounty Disclosures
