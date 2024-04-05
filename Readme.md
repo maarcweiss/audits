@@ -1,6 +1,6 @@
 # About 0xWeiss
 
-I am an independent security researcher who manages smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
+I am an independent security researcher. Co-Founder and Lead Auditor at Enigma Dark, and manage smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
 
 I am also part of Spearbit and Paladin Blockchain Security.
 
