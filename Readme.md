@@ -1,17 +1,16 @@
 # About 0xWeiss
 
-I am an independent security researcher. Co-Founder and Lead Auditor at Enigma Dark, and manage smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
+- I am an independent security researcher and the Co-Founder and Lead Auditor at Enigma Dark, where I oversee smart contract security for large protocols such as Aave, Euler, Tapioca DAO, Silo, Credit Coop.
 
-I am also part of Spearbit and Paladin Blockchain Security.
+- Additionally, I serve as a Security Researcher at Spearbit and Paladin Blockchain Security.
 
-I have done tons of reviews (over 50) ranging from public, to firm and private. I have audited all kinds of DeFi protocols, omnichain, perps, options, lending, liquid staking... 
+- With over 100 reviews conducted across public, private, and firm engagements, I have audited a diverse range of DeFi protocols, including perpetuals, options, lending, and liquid staking platforms.
 
+- In 2024, I was the top 1 ranked solo auditor on Hyacinth, outperforming the second position by more than 2x and earning over six figures in bounties.
 
 
 
 # 0xWeiss private security reviews
-
-### Private Security Reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
@@ -24,12 +23,46 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Sybil Samurai](https://sybilsamurai.com/) | NFT | 1 | 0 | 100 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Sybil_Samurai_Security_Review_Final_Report.pdf)
 | [Ceden Network](https://ceden.network/) | Nodes + NFTs | 3 | 5 | 800 | Coming soon 
 | [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | - | - | - | Coming soon
+| [Arrow Markets Staking](https://www.arrow.markets/) | Staking contracts | - | - | - | Coming soon
+| [Arrow Markets Claim](https://www.arrow.markets/) | Merkle contracts | - | - | - | Coming soon
 | [Edgeless Network]() | Lido Strats | 2 | 2 | 400 | Coming soon 
+| [Fantasy Top]() | Card Game | - | - | - | Coming soon 
+| [Yeet]() | Staking | - | - | - | Coming soon 
+| [Champz]() | -- | - | - | - | Coming soon 
+| [Volmex]() | -- | - | - | - | Coming soon 
+| [Goldilocks]() | -- | - | - | - | Coming soon 
+| [W3GG]() | -- | - | - | - | Coming soon 
+| [Royco]() | -- | - | - | 300 | Coming soon
+| [Pepino Casino]() | -- | - | - | - | Coming soon
 
 
-# 0xWeiss Paladin security reviews
+# 0xWeiss Enigma Dark Security Reviews
 
-### Paladin Blockchain Security Reviews
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Juicebox]() | Fundraising | - | - | 9000 | Coming soon
+| [Tapioca DAO]() | Lending | - | - | 5000 | Coming soon
+| [Tapioca DAO]() | Locking mechanism | - | - | 3500 | Coming soon
+| [Silo]() | Lending | - | - | 4800 | Coming soon
+| [Credit Coop]() | Lending | - | - | 6000 | Coming soon
+
+
+# 0xWeiss Spearbit Security Reviews
+
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Berchain]() | Perps & Validator Incentives | -- | - | - | Private
+
+
+# 0xWeiss Cantina Security Reviews
+
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Y2K](https://www.y2k.finance/) | Migration | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1xeJhjk6yYAIGfBP5Ze2eZJ1ZhHUZyVwV/view?usp=sharing)
+| [Meme Launchpad]() | Bonding Curve | 9 | 9 | 600 | Private
+
+
+# 0xWeiss Paladin Security Reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
@@ -39,25 +72,11 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Davos Protocol I]() | VE/Governance | 2 | 1 | 1300 | [Report](https://drive.google.com/file/d/1vbnhNQjsHTjj1t_QVHlvrr55ETPeEIuP/view?usp=sharing)
 | [Davos Protocol II]() | Bribes/Gauges | 5 | 12 | 1300 | [Report](https://drive.google.com/file/d/143oWg-yltoc0P6ehjYYU2Bd69PGnJJtZ/view?usp=sharing)
 | [Portal Fantasy]() | NFT marketplace | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1Ce5a6H_kdN_3z-APtvZGwo79kYMhI03w/view?usp=sharing)
-| [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Coming soon
-
-
-
-# 0xWeiss Cantina security reviews
-
-### Paladin Blockchain Security Reviews
-
-| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
-| ---- |  ---------| ---------|  -------|  -------| --------|
-| [Y2K](https://www.y2k.finance/) | Migration | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1xeJhjk6yYAIGfBP5Ze2eZJ1ZhHUZyVwV/view?usp=sharing)
-
-
+| [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Private
 
 
 
 # 0xWeiss Bug Bounty Disclosures
-
-### 0xWeiss Bug Bounty Disclosures 
 
 | Protocol | Protocol Type | Link |
 | ---- |  ---------| ---------| 
@@ -66,12 +85,12 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [GMX V1 III](https://gmx.io/) | Perpetuals | [Link](https://medium.com/@mweiss.eth/the-lexer-markets-security-review-story-a812539d62db)
 | [GNS](https://gains.trade/) | Trading | [Link](https://medium.com/@mweiss.eth/9d1bc80cc608)
 | [HOPR](https://hoprnet.org/) | Data Privacy | [Link](https://twitter.com/0xWeisss/status/1713640176700862703)
-| [Yield Yak](https://yieldyak.com/) | Vaults | Coming soon
-| [Pika Finance I](https://www.pikaprotocol.com/) | Perpetuals | Coming soon
-| [Pika Finance II](https://www.pikaprotocol.com/) | Perpetuals | Coming soon
-| [GLIF](https://www.glif.io/en) | Liquid Staking | Coming soon
-| [Union Finance I](https://twitter.com/UNNFinance) | Strats | Coming soon
-| [Union Finance II](https://twitter.com/UNNFinance) | Strats | Coming soon
+| [Yield Yak](https://yieldyak.com/) | Vaults | Private
+| [Pika Finance I](https://www.pikaprotocol.com/) | Perpetuals | Private
+| [Pika Finance II](https://www.pikaprotocol.com/) | Perpetuals | Private
+| [GLIF](https://www.glif.io/en) | Liquid Staking | Private
+| [Union Finance I](https://twitter.com/UNNFinance) | Strats | Private
+| [Union Finance II](https://twitter.com/UNNFinance) | Strats | Private
 
 
 
@@ -111,7 +130,5 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 
 <!-- BLOG-POST-LIST:END -->
 
-### Contact
 
-If you want to talk security I can be reached at [@0xWeisss](http://twitter.com/0xWeisss).
 
