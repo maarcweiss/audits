@@ -1,4 +1,4 @@
-# About 0xWeiss
+# About 0xWeiss (OUTDATED)
 
 - I am an independent security researcher and the Co-Founder and Lead Auditor at Enigma Dark, where I oversee smart contract security for large protocols such as Aave, Euler, Tapioca DAO, Silo, Credit Coop.
 
