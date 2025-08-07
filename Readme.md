@@ -1,6 +1,8 @@
-# About 0xWeiss (OUTDATED)
+# About 0xWeiss
 
 - I am an independent security researcher and the Co-Founder and Lead Auditor at Enigma Dark, where I oversee smart contract security for large protocols such as Aave, Euler, Tapioca DAO, Silo, Credit Coop.
+
+- I am an in-house security researcher in TapiocaDAO and Hyperdrive
 
 - Additionally, I serve as a Security Researcher at Spearbit and Paladin Blockchain Security.
 
@@ -40,11 +42,13 @@
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
-| [Juicebox]() | Fundraising | - | - | 9000 | Coming soon
+| [Juicebox]() | Fundraising | 5 | 16 | 9000 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-04-30_Security_Review_Report_JuiceboxProtocolv4.pdf)
+| [Credit Coop]() | Lending | 11 | 13 | 6000 | [Report](https://github.com/maarcweiss/audits/blob/master/Private/Security_Review_Report_CreditCoopv2.pdf)
+| [Flaunch]() | Launchpad | 2 | 1 | 1700 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-11_Security_Review_FlayerLabs_Flaunch.pdf)
+| [Flaunch Extension]() | Launchpad | 1 | 0 | 500 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-12_Security_Review_Extension_FlayerLabs_Flaunch.pdf)
+| [Silo]() | Lending | 0 | 1 | 3000 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-05_Best_Efforts_Security_Review_Silo_Finance_Silo_v2_Core.pdf)
 | [Tapioca DAO]() | Lending | - | - | 5000 | Coming soon
 | [Tapioca DAO]() | Locking mechanism | - | - | 3500 | Coming soon
-| [Silo]() | Lending | - | - | 4800 | Coming soon
-| [Credit Coop]() | Lending | - | - | 6000 | Coming soon
 
 
 # 0xWeiss Spearbit Security Reviews
